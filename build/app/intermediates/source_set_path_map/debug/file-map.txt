@@ -1,0 +1,12 @@
+com.justhink.justhink_new_mobil_application_purple.app-jetified-window-java-1.0.0-beta04-0 /Users/muhammetvural/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.justhink.justhink_new_mobil_application_purple.app-core-1.6.0-1 /Users/muhammetvural/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.justhink.justhink_new_mobil_application_purple.app-jetified-annotation-experimental-1.1.0-2 /Users/muhammetvural/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.justhink.justhink_new_mobil_application_purple.app-jetified-window-1.0.0-beta04-3 /Users/muhammetvural/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.justhink.justhink_new_mobil_application_purple.app-debug-4 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/android/app/src/debug/res
+com.justhink.justhink_new_mobil_application_purple.app-main-5 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/android/app/src/main/res
+com.justhink.justhink_new_mobil_application_purple.app-pngs-6 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/generated/res/pngs/debug
+com.justhink.justhink_new_mobil_application_purple.app-resValues-7 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/generated/res/resValues/debug
+com.justhink.justhink_new_mobil_application_purple.app-rs-8 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/generated/res/rs/debug
+com.justhink.justhink_new_mobil_application_purple.app-mergeDebugResources-9 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.justhink.justhink_new_mobil_application_purple.app-mergeDebugResources-10 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.justhink.justhink_new_mobil_application_purple.app-merged_res-11 /Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/intermediates/merged_res/debug
