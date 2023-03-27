@@ -1,4 +1,4 @@
-#Fri Mar 24 16:58:18 TRT 2023
+#Fri Mar 24 17:57:02 TRT 2023
 base.0=/Users/muhammetvural/Documents/flutter_projects/Justhink_new_mobil_application_purple/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
