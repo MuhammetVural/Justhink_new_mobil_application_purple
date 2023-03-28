@@ -1,7 +1,8 @@
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:flutter/material.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/theme_manager.dart';
+
+import '../presentation/resources/theme_manager.dart';
 
 class MyApp extends StatefulWidget {
  
