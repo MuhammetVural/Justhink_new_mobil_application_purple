@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/color_manager.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/font_manager.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/styles_manager.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/values_manager.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/color_manager.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/font_manager.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/styles_manager.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/values_manager.dart';
 
 ThemeData getApplicationTheme() {
   return ThemeData(

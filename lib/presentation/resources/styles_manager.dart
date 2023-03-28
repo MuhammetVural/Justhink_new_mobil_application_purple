@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/font_manager.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/font_manager.dart';
 
 TextStyle _getTextStyle (double fontSize, String fontFamily, FontWeight fontWeight, Color color){
   return TextStyle(fontSize: fontSize, fontFamily: fontFamily, color: color, fontWeight: fontWeight);
