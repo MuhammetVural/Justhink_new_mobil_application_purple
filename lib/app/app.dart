@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import '../presentation/resources/theme_manager.dart';
 
 class MyApp extends StatefulWidget {
- 
-  MyApp._internal();// private named constractor
+  MyApp._internal(); // private named constractor
 
-  static final MyApp instance = MyApp._internal(); // single instance ya da singleton
+  static final MyApp instance =
+      MyApp._internal(); // single instance ya da singleton
 
   int appState = 0;
 
@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-   theme: getApplicationTheme(),
+      theme: getApplicationTheme(),
     );
   }
 }
