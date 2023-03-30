@@ -12,8 +12,8 @@
     <item android:gravity="center">
         <layer-list>
             <item android:gravity="center_horizontal"
-                android:height="43dp"
-                android:width="50dp" android:drawable="@drawable/justhink_logo  "/>
+                
+                 android:drawable="@drawable/justhink_logo"/>
 
         </layer-list>
     </item>

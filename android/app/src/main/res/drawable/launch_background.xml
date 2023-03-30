@@ -13,7 +13,7 @@
 <item android:gravity="center">
         <layer-list>
             <item 
-                android:drawable="@drawable/justhink_logo "/>
+                android:drawable="@drawable/justhink_logo"/>
          
         </layer-list>
     </item>
