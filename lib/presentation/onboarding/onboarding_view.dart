@@ -1,5 +1,6 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/resources/color_manager.dart';
 
 @RoutePage()
 class OnboardingView extends StatefulWidget {
@@ -12,6 +13,9 @@ class OnboardingView extends StatefulWidget {
 class _OnboardingViewState extends State<OnboardingView> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      backgroundColor: ColorManager.primaryDark,
+      body: Center(child:  Text('Welcome to on boarding',style: TextStyle(color: ColorManager.white),)),
+    );
   }
 }

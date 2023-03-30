@@ -1,9 +1,6 @@
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
+
 import 'package:flutter/material.dart';
 import 'package:justhink_new_mobil_application_purple/core/navigator/app_router.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/resources/routes_manager.dart';
-
 import '../presentation/resources/theme_manager.dart';
 
 final router  = AppRouter();
