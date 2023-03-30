@@ -19,3 +19,11 @@ class _OnboardingViewState extends State<OnboardingView> {
     );
   }
 }
+class SliderObject{
+  String image;
+  String title;
+  String subTitle;
+
+  SliderObject(this.image, this.subTitle, this.title);
+  
+}
