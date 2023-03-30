@@ -1,10 +1,14 @@
 import 'dart:async';
 
+import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
+import 'package:justhink_new_mobil_application_purple/app/app.dart';
+import 'package:justhink_new_mobil_application_purple/core/navigator/app_router.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/assets_manager.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/color_manager.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/routes_manager.dart';
 
+@routePage
 class SplashView extends StatefulWidget {
   const SplashView({Key? key}) : super(key: key);
 
@@ -20,7 +24,7 @@ class _SplashViewState extends State<SplashView> {
   }
 
   _goNext() {
-    Navigator.pushReplacementNamed(context, Routes.onBoardingRoute);
+    router.push(const OnboardingRoute());
   }
 
   @override
