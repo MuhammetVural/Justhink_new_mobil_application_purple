@@ -10,5 +10,7 @@ class AppStrings{
   static const String onboardingSubTitle3= ".....";
   static const String onboardingSubTitle4= ".....";
 
+  static const String skip= "Skip";
+
 
 }

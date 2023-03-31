@@ -332,6 +332,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///Users/muhammetvural/.pub-cache/hosted/pub.dev/smooth_page_indicator-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "source_gen",
       "rootUri": "file:///Users/muhammetvural/.pub-cache/hosted/pub.dev/source_gen-1.2.7",
       "packageUri": "lib/",
@@ -446,7 +452,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-03-30T16:34:40.433889Z",
+  "generated": "2023-03-31T13:37:59.730889Z",
   "generator": "pub",
   "generatorVersion": "2.19.5"
 }
