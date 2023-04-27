@@ -8,7 +8,7 @@ class ColorManager {
 
   //new colors
 
-  static Color primaryDark  = Hexcolor.fromHex('7D2053');
+  static Color primaryDark  = Hexcolor.fromHex('7D2053'); 
   static Color grey1  = Hexcolor.fromHex('414141');
   static Color grey2  = Hexcolor.fromHex('49414B');
   static Color white  = Hexcolor.fromHex('FFFFFF');

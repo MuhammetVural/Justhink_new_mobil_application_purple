@@ -6,7 +6,6 @@ import 'package:justhink_new_mobil_application_purple/app/app.dart';
 import 'package:justhink_new_mobil_application_purple/core/navigator/app_router.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/assets_manager.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/color_manager.dart';
-import 'package:justhink_new_mobil_application_purple/presentation/resources/routes_manager.dart';
 
 @routePage
 class SplashView extends StatefulWidget {
@@ -43,8 +42,8 @@ class _SplashViewState extends State<SplashView> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: ColorManager.primary,
-      body: Center(
-          child: const Image(
+      body: const Center(
+          child: Image(
         image: AssetImage(ImageAssets.justhinkLogo),
       )),
     );
