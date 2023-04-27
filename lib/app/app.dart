@@ -2,6 +2,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:flutter/material.dart';
 import 'package:justhink_new_mobil_application_purple/core/navigator/app_router.dart';
+import 'package:justhink_new_mobil_application_purple/presentation/onboarding/onboarding_view.dart';
 import 'package:justhink_new_mobil_application_purple/presentation/resources/routes_manager.dart';
 
 import '../presentation/resources/theme_manager.dart';
@@ -26,11 +27,11 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp.router(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: getApplicationTheme(),
-      routerDelegate: router.delegate(),
-      routeInformationParser: router.defaultRouteParser(),
+      home: const OnboardingView(),
     );
   }
 }
+
